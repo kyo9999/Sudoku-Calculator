@@ -1,6 +1,3 @@
-# Sudoku-Calculator
-Sudoku Calculator for iPhone iPad Mac Android Windows
-
 <div id="sudoku-calculator" class="bg-secondary rounded-xl overflow-hidden shadow-md card-hover app-card">
     <div class="h-52 bg-primary/10 flex items-center justify-center">
         <div class="app-icon-container">
@@ -48,76 +45,45 @@ Sudoku Calculator for iPhone iPad Mac Android Windows
         </p>
         
 
-        <div class="flex justify-between items-center mb-4">
-            <div class="flex items-center text-yellow-400">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star-half-o"></i>
-                <span class="text-gray-600 ml-2 text-sm">(4.6)</span>
-            </div>
-        </div>
-        
-        <div class="flex flex-col gap-3">
-            <div class="flex gap-3">
-                <a href="https://apps.apple.com/us/app/sudoku-calculator/id965517565" 
-                   target="_blank" 
-                   class="flex-1 bg-white border border-primary text-primary rounded-lg px-4 py-3 text-center font-medium hover:bg-primary hover:text-white transition-colors">
-                    <i class="fa fa-apple mr-2"></i>
-                    <span class="lang-en">Free Version</span>
-                    <span class="lang-zh-CN hidden">免费版</span>
-                    <span class="lang-zh-TW hidden">免費版</span>
-                    <span class="lang-ja hidden">無料版</span>
-                </a>
-                <a href="https://apps.apple.com/us/app/sudoku-calculator-pro/id6759789149" 
-                   target="_blank" 
-                   class="flex-1 bg-primary text-white rounded-lg px-4 py-3 text-center font-medium hover:bg-primary/90 transition-colors">
-                    <i class="fa fa-apple mr-2"></i>
-                    <span class="lang-en">Pro Version</span>
-                    <span class="lang-zh-CN hidden">专业版</span>
-                    <span class="lang-zh-TW hidden">專業版</span>
-                    <span class="lang-ja hidden">Pro版</span>
-                </a>
-            </div>
-            <div class="flex gap-3">
-                <button disabled 
-                        class="flex-1 bg-gray-300 border border-gray-400 text-gray-500 rounded-lg px-4 py-3 text-center font-medium cursor-not-allowed opacity-60">
-                    <i class="fa fa-android mr-2"></i>
-                    <span class="lang-en">Free Version</span>
-                    <span class="lang-zh-CN hidden">免费版</span>
-                    <span class="lang-zh-TW hidden">免費版</span>
-                    <span class="lang-ja hidden">無料版</span>
-                </button>
-                <a href="https://play.google.com/store/apps/details?id=com.zhuyangjun.sudokucalculatorpro" 
-                   target="_blank" 
-                   class="flex-1 bg-green-500 text-white rounded-lg px-4 py-3 text-center font-medium hover:bg-green-600 transition-colors">
-                    <i class="fa fa-android mr-2"></i>
-                    <span class="lang-en">Pro Version</span>
-                    <span class="lang-zh-CN hidden">专业版</span>
-                    <span class="lang-zh-TW hidden">專業版</span>
-                    <span class="lang-ja hidden">Pro版</span>
-                </a>
-            </div>
-            <div class="flex gap-3">
-                <button disabled 
-                        class="flex-1 bg-gray-300 border border-gray-400 text-gray-500 rounded-lg px-4 py-3 text-center font-medium cursor-not-allowed opacity-60">
-                    <i class="fa fa-windows mr-2"></i>
-                    <span class="lang-en">Free Version</span>
-                    <span class="lang-zh-CN hidden">免费版</span>
-                    <span class="lang-zh-TW hidden">免費版</span>
-                    <span class="lang-ja hidden">無料版</span>
-                </button>
-                <a href="https://apps.microsoft.com/detail/9NKHWLCSMVP0" 
-                   target="_blank" 
-                   class="flex-1 bg-blue-600 text-white rounded-lg px-4 py-3 text-center font-medium hover:bg-blue-700 transition-colors">
-                    <i class="fa fa-windows mr-2"></i>
-                    <span class="lang-en">Pro Version</span>
-                    <span class="lang-zh-CN hidden">专业版</span>
-                    <span class="lang-zh-TW hidden">專業版</span>
-                    <span class="lang-ja hidden">Pro版</span>
-                </a>
-            </div>
-        </div>
+        <a href="https://apps.apple.com/us/app/sudoku-calculator/id965517565" 
+           target="_blank" 
+           class="flex-1 bg-white border border-primary text-primary rounded-lg px-4 py-3 text-center font-medium hover:bg-primary hover:text-white transition-colors">
+            <i class="fa fa-apple mr-2"></i>
+            <span class="lang-en">Free Version</span>
+            <span class="lang-zh-CN hidden">免费版</span>
+            <span class="lang-zh-TW hidden">免費版</span>
+            <span class="lang-ja hidden">無料版</span>
+        </a>
+        <a href="https://apps.apple.com/us/app/sudoku-calculator-pro/id6759789149" 
+           target="_blank" 
+           class="flex-1 bg-primary text-white rounded-lg px-4 py-3 text-center font-medium hover:bg-primary/90 transition-colors">
+            <i class="fa fa-apple mr-2"></i>
+            <span class="lang-en">Pro Version</span>
+            <span class="lang-zh-CN hidden">专业版</span>
+            <span class="lang-zh-TW hidden">專業版</span>
+            <span class="lang-ja hidden">Pro版</span>
+        </a>
+
+
+        <a href="https://play.google.com/store/apps/details?id=com.zhuyangjun.sudokucalculatorpro" 
+           target="_blank" 
+           class="flex-1 bg-green-500 text-white rounded-lg px-4 py-3 text-center font-medium hover:bg-green-600 transition-colors">
+            <i class="fa fa-android mr-2"></i>
+            <span class="lang-en">Pro Version</span>
+            <span class="lang-zh-CN hidden">专业版</span>
+            <span class="lang-zh-TW hidden">專業版</span>
+            <span class="lang-ja hidden">Pro版</span>
+        </a>
+
+
+        <a href="https://apps.microsoft.com/detail/9NKHWLCSMVP0" 
+           target="_blank" 
+           class="flex-1 bg-blue-600 text-white rounded-lg px-4 py-3 text-center font-medium hover:bg-blue-700 transition-colors">
+            <i class="fa fa-windows mr-2"></i>
+            <span class="lang-en">Pro Version</span>
+            <span class="lang-zh-CN hidden">专业版</span>
+            <span class="lang-zh-TW hidden">專業版</span>
+            <span class="lang-ja hidden">Pro版</span>
+        </a>
     </div>
 </div>
