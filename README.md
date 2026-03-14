@@ -1,3 +1,8 @@
+# iPhone iPad Mac Android Windows
+
+https://kyo9999.github.io
+
+
 <div id="sudoku-calculator" class="bg-secondary rounded-xl overflow-hidden shadow-md card-hover app-card">
     <div class="h-52 bg-primary/10 flex items-center justify-center">
         <div class="app-icon-container">
